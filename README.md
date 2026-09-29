@@ -14,6 +14,9 @@ ___________________________________
 
 ___________________________________
 
-​Shartnoma tuzilgan sana: 2026-yil 29-sentabr (Seshanba), 14:44
-​Shartnoma yangilangan sana: 2026-yil 29-sentabr (Seshanba), 14:44
+​•Shartnoma tuzilgan sana: 2026-yil 29-sentabr (Seshanba), 14:44
+•​Shartnoma yangilangan sana: 2026-yil 29-sentabr (Seshanba), 14:44
+
+________________
+
 ​App Release Count: 1 
