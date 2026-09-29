@@ -9,4 +9,4 @@ Tel: +99820007****
 ______________
 
 MUHUM!
-kantakt malumotlar o'zgarishi mumkun, bu haqida ogohlantrish beriladi va gangi manzil oshkor qiliniladi.
+kantakt malumotlar o'zgarishi mumkun, bu haqida ogohlantrish beriladi va yangi manzil oshkor qiliniladi.
