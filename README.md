@@ -1,25 +1,19 @@
-Assalamu alaykum, bu xabarni o'qib turganingizdan juda xursandman. Bu repodan ko'rgan yokida yuklab oladigon malumotlaringiz toliq xavfsiz va aynan bu repodan yuklanadigon ilovalarga yaratuvchi jiddiy ( sharnomalarda ko'rsatilinilmagan holatdagi) javobgarlikni bo'yniga oladi.
-_____________________________________
-• Shartnoma • 
-Siz bizning ilovamizdan kelgusida yokida barcha vaqtlarda foidalanar ekansiz bizning shartlarga avtomatik tarzda rozi bo'lgan hisoblanasiz, (bu efferta hechqanday ai vositalarisiz yozilmoqda) .
-[Ilova mobil telefoningizning zaruriy funksialariga qastdan xujum qilmaydi va]
-1. Ilovadan foidalanish mobaynida sizning qurilmangizdan hechqanday g'arazli yollarda foidalanilmaydi, jumladan malumotlar yig'ish yokida avtomatik ommaviy sms yuborish va boshqa tarmoq hodisalari.
-2. Ilovadan tashqari holatlarda yaratuvchi bo'yniga oladigon javobgarlik 0ga teng.
-3. Mobil aloqa provayderlari foidalanuvchini cheklashi mumkun va bu foidalanuvchi ilovadan o'z xoxishi bilan foidalansa amalga oshadi. Bunday vaziyatlar asosan ilovada keltrilgan xavfsiz limtlar va mobil aloqa provayderlari shartnomalariga va qonun-qoidalari ga zid ravishda ishlatilinilsa kelib chiqadi va yaratuvchi hechqanday javobgarlikni boyniga olmaydi va ilovadan foidakanish harbir insinning i'z hohishiga ko'ra amalga oshiriladi.
-4. Bu ilovadan foidalanishda kelgusida ilova yangilanishlari faqat manashu manbada elon qiliniladi, (buyerda aynan xaqiqiy repo ko'zda tutuldi) yokida keltirilgan boshqa ishonch manbaalari jumlada yaratuvching boshqa ijtimoiy tarmoqlari. Ammo shunday bo'lsaham yangi ilovalardan foidalanishdan oldin, ularni o'rnatishdan oldin yaratuvchi bilan bog'lanish tavfsiya qiliniladi.
-5. Soxta xisoblar, yaratuvchi nomidan ochilgan soxta xisoblar orqalik kelib chiqadigon muammolarga 100% taluqsiz qoldiriladi va aytilganidek ishonch komil bolmasa yaratuvchi bilan bog'laning.
-6. Shrtlat istalgan vaqtda yangilanishi mumkun va yangilangan payt ommaviy elon qiliniladi yokida ilovada ko'rsatiliniladi.
-7. Etiborsizlik oqibatida shartlarni o'qimasdan foidalanib muammo duch kelsa biror foidalanuvchi va yaratuvchiga shikoyat bildirsa va bu shikoyat qoidalarda keltrilgan(ogoxlantrilgan) bo'lsa javobgarlikdan ozod xisoblanadi.
-8. Agar shartlar yangilansa va qandaydur etiroz bolmagan taqdirda 7kun uchida u foidalanuvchi yangi qoidalarga avtomatik rozi bolgan hisoblanadi.
-9. Ilovadan faqat korporativ maqsatda foidalanish uchun yaratilinilgan, massiv spam xabarlar, sms bomber va boshqa noqonuniy yollar olib keladigon javobgarlik qabul qilinilmaydi va ilovadan faqat belgilangan tartibda foidalanish talab qiliniladi, aks holatlarda hechqanday etirozlar qabul qilinilmaydi.
-10. Harqanday shikoyatga javob berishlik yaratuvchining oliy burji emas, yaratuvchi shunday deydi: qoidalarga rioya qilib ishlating, maslahat bolsa ayting.
-11. Ilova kelgusida pullik tizimda ishlashligi mumkun ammo hozirda butunlay 0 sum evaziga ishlata olasiz
-12. 11-band dagi ogohlantruv uchun qo'shimcha, bu bilan biz pullaringizni o'g'rilab olmaymiz.
-13. Ilovadan yaratuvchi, foidalanuchilar mobil qurilmalarini masofaviy boshqarish uchun foidalanmaydi va ilovani o'rnatgan shaxlarning mobil qurilmalari botnet(avtomatlashtrilgan spam mashinalar va qurilmalar) ga aylanib qolmaydi.
+**Ommaviy oferta va Foydalanish shartlari (Terms of Service)**
+___________________________________
+​Ushbu ombordan (repository) yuklab olinayotgan dasturiy ta'minot va uning materiallari xavfsizligi kafolatlanadi. Ilovadan foydalanish orqali siz ushbu shartlarga avtomatik ravishda va shartlarsiz rozilik bildirasiz.
+1. ​Xavfsizlik va Maxfiylik: Ilova foydalanuvchi qurilmasiga qasddan zarar yetkazmaydi. Qurilmadan zararli maqsadlarda — shaxsiy ma'lumotlarni yig'ish, ruxsatsiz avtomatik SMS yuborish, botnet tarmoqlarini hosil qilish yoki masofadan noqonuniy boshqarish uchun foydalanilmaydi.
+2. ​Javobgarlikning cheklanishi: Dasturchi ilovadan tashqari holatlarda hamda foydalanuvchining shaxsiy harakatlari yoki e'tiborsizligi oqibatida yuzaga kelgan muammolar uchun javobgarlikni o'z zimmasiga olmaydi.
+​3. Mobil operatorlar cheklovlari: Ilovadan belgilangan xavfsiz mezonlar va mobil aloqa operatorlari shartlariga zid ravishda foydalanilganda (masalan, belgilangan limitlardan oshib ketish oqibatida) yuzaga kelishi mumkin bo'lgan SIM-karta va raqam blokirovkalari uchun javobgarlik to'liq foydalanuvchi zimmasida bo'ladi.
+4. ​Rasmiy manba va Yangilanishlar: Ilova yangilanishlari va rasmiy xabarlar faqat ushbu manbada (rasmiy omborda) yoki dasturchining rasmiy ijtimoiy tarmoqlarida e'lon qilinadi. Boshqa soxta (fake) hisoblar orqali tarqatilgan versiyalar uchun dasturchi javobgar emas. Yangi versiyalarni o'rnatishdan oldin dasturchi bilan bog'lanish tavsiya etiladi.
+5. ​Foydalanish maqsadi: Ilova faqat korporativ va qonuniy maqsadlarda foydalanish uchun yaratilgan. Undan ommaviy spam-xabarlar yuborish, SMS-bomber yoki boshqa noqonuniy harakatlarni amalga oshirishda foydalanish qat'iyan taqiqlanadi.
+6. ​Shartlarning o'zgarishi: Shartlar dasturchi tomonidan istalgan vaqtda yangilanishi mumkin. Yangilangan shartlar e'lon qilingandan so'ng 7 kun ichida e'tiroz bildirilmasa, foydalanuvchi yangi qoidalarga avtomatik tarzda rozi bo'lgan hisoblanadi.
+7. ​Xizmat ko'rsatish narxi: Hozirgi kunda ilovadan foydalanish to'liq bepul. Kelgusida pullik funksiyalar yoki obuna tizimi kiritilishi mumkin va bu haqida foydalanuvchilar oldindan ogohlantiriladi.
+8. ​Kafolatlarning yo'qligi (AS IS): Dasturiy ta'minot "qanday bo'lsa, shunday" (AS IS) tamoyili bo'yicha taqdim etiladi. Dasturchi ilovaning uzluksiz, xatosiz ishlashiga kafolat bermaydi va kutilmagan texnik uzilishlar uchun javobgarlik olmaydi.
+​9. Qonunchilik va uchinchi tomon oldidagi javobgarlik: Foydalanuvchi ilova orqali amalga oshirgan har qanday noqonuniy harakati uchun amaldagi qonunchilik hamda uchinchi shaxslar (huquqni muhofaza qilish organlari, mobil operatorlar v.b.) oldida to'liq shaxsiy javobgarlikni o'z zimmasiga oladi.
+10. ​Qurilma ruxsatlari: Ilova faqat o'zining belgilangan texnik funksiyalarini bajarishi uchun zarur bo'lgan minimal qurilma ruxsatlaridan (permissions) foydalanadi va bu ruxsatlar o'zgacha g'arazli maqsadlarda ishlatilmaydi.
 
-=====================================
+___________________________________
 
--Shartnoma yozild 2026 29-sen (seshanba) 14:44 
--Shartnoma yangilandi 2026 29-sen (seshanba) 14:44
-
-app relase count = 1.
+​Shartnoma tuzilgan sana: 2026-yil 29-sentabr (Seshanba), 14:44
+​Shartnoma yangilangan sana: 2026-yil 29-sentabr (Seshanba), 14:44
+​App Release Count: 1 
